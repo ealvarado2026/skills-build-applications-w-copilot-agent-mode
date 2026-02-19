@@ -1,0 +1,4 @@
+# admin.py for OctoFit Tracker API
+from django.contrib import admin
+
+# Placeholder for admin registrations for users, teams, activities, leaderboard, and workouts
