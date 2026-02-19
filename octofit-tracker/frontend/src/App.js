@@ -1,6 +1,6 @@
 import React from 'react';
 
-import octofitLogo from '../public/octofitapp-small.svg';
+import octofitLogo from './octofitapp-small.svg';
 
 
 function App() {
